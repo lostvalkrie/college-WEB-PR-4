@@ -10,14 +10,14 @@ document.addEventListener("DOMContentLoaded", () => {
   const sendButton = document.querySelector("#send");
 
   const firebaseConfig = {
-    apiKey: "AIzaSyBEyqnE8dAEmQyqeB80luAnsY0HSfXNtko",
-    authDomain: "collegeproj-c284f.firebaseapp.com",
+    apiKey: "-",
+    authDomain: "-",
     databaseURL:
-      "https://collegeproj-c284f-default-rtdb.europe-west1.firebasedatabase.app",
-    projectId: "collegeproj-c284f",
-    storageBucket: "collegeproj-c284f.firebasestorage.app",
-    messagingSenderId: "515398175771",
-    appId: "1:515398175771:web:ac89900eb16b23689e3cbe",
+      "-",
+    projectId: "-",
+    storageBucket: "-",
+    messagingSenderId: "-",
+    appId: "-",
   };
 
   firebase.initializeApp(firebaseConfig);
